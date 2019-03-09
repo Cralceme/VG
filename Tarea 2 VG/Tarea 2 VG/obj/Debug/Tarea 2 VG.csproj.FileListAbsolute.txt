@@ -1,0 +1,7 @@
+C:\Users\Cralceme\source\repos\Tarea 2 VG\Tarea 2 VG\bin\Debug\Tarea 2 VG.exe.config
+C:\Users\Cralceme\source\repos\Tarea 2 VG\Tarea 2 VG\bin\Debug\Tarea 2 VG.exe
+C:\Users\Cralceme\source\repos\Tarea 2 VG\Tarea 2 VG\bin\Debug\Tarea 2 VG.pdb
+C:\Users\Cralceme\source\repos\Tarea 2 VG\Tarea 2 VG\obj\Debug\Tarea 2 VG.csprojAssemblyReference.cache
+C:\Users\Cralceme\source\repos\Tarea 2 VG\Tarea 2 VG\obj\Debug\Tarea 2 VG.csproj.CoreCompileInputs.cache
+C:\Users\Cralceme\source\repos\Tarea 2 VG\Tarea 2 VG\obj\Debug\Tarea 2 VG.exe
+C:\Users\Cralceme\source\repos\Tarea 2 VG\Tarea 2 VG\obj\Debug\Tarea 2 VG.pdb
